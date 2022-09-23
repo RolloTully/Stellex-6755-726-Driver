@@ -12,13 +12,13 @@ In the uk for example, illegaly transmitting in this band(or any non IMS band) c
 You have been warned. 
 
 
-It is popular online to convert these oscillator in to DIY synthetic Aperture radar. 
+It is popular online to use these oscillator in DIY synthetic Aperture radar. 
 
 Do not do this.
 
 Many technical hobbies have remained relativly unregulated because most users of the technology are responsible users and are considerate of the impact of there hobbies on those around them around, I do not see a resonable and considerate use for a SAR in the hobby scene
 As access to these advanced technologies become more accessible to amateur hobbyist we risk further regulation limiting what responsible users can do due to the actions of irrisonsible users. 
-TLDR; dont be an idiot, dont be a dick, dont make military radars. 
+Law 104: dont be an idiot, dont be a dick, dont make military radars. (lets see who gets that overly obscure reference)
 
 I take no responsability for any consequeses you may face as a result of your usage of these documents. Dont come crying to me if you get fined and have your radio equipment seized.
 
