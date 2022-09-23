@@ -1,0 +1,2 @@
+All design schematics for this driver are avalable at this link: https://www.qsl.net/k/kb9mwr/projects/uwave/Experimenting%20with%20a%20Stellex%20YIG%20Oscillator.pdf
+this design is a subtle remix of a design from the RSGB's International Microwave Handbook
