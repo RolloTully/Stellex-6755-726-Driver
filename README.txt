@@ -12,7 +12,7 @@ In the uk for example, illegaly transmitting in this band(or any non IMS band) c
 You have been warned. 
 
 
-It is popular online to convert these oscillator in to DIY synthetic Aperture radar while a genuinly fun project this. 
+It is popular online to convert these oscillator in to DIY synthetic Aperture radar. 
 
 Do not do this.
 
@@ -56,6 +56,8 @@ you can either be real careful and set your driving offsets using the inculuded 
 series 200mA fuse in series with the tuning lines to save your precious oscilattor if you do a dumb.
 
 The Modulation Signal cannot be more than 1 Volt peak to peak. 
+
+This is a relativly new project, there may well be errors everywhere.
 
 Helpful stuff:
 The tune line with alter the output frequency by about 5MHz up or down for every 1mA of current change

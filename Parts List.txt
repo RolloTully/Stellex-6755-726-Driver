@@ -1,0 +1,46 @@
+All resistors are 1%
+All Caps are 16v or higher
+LTC1044 can be substitued by a LMC7660 with degraded performance
+
+you may wish to get spares of the everything, at best you can replace burn out parts, at worst you have enought spares to make a second driver board
+
+
+PARTS LISTS:
+
+1x Order of Driver board, generaly the minimum order is of 5.
+
+1x Stellex 6755-726 or Endwave MY01210 (This can be found on ebay)
+
+-Resistors:
+3x 5k multiturn resistors
+1x 240 Ohm
+1x 2.7K
+1x 3.0K
+1x 10K
+2x 100 Ohm
+2x 10 Ohm 1W
+1x 15 Ohm 1W
+1x 680 Ohm
+1x 470 Ohm
+1x 2K
+
+-Caps:
+4x 100pF
+1x 100uF
+1x 470uF
+A bunch of 10 uF 
+
+-Diodes:
+1x 1N5401
+2x 1N4001
+4x 1N4148
+
+-MOSFETS:
+2x IRF510
+
+-Other:
+1x LM317
+1x LTC1044 (or LMC7660)
+2x OP27G (replacing the older LM627)
+4x 8 pin dip sockets (optional if you want to risk your ICs)
+1x Decent 12v Power supply, get a good one, a noise 12v supply will effect the stability of the circuit. if you cant you can always run it off of a battery
