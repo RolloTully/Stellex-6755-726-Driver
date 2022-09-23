@@ -27,8 +27,8 @@ I take no responsability for any consequeses you may face as a result of your us
 -Construction:
 All parts needed to build the driver circuit are contained with in the Parts list text file. 
 In addition to these parts you will need to manufacture the pcb, this can be done by the multitude of pcb manufaturing companines, PCBWAY will do it for less than £10 shipped. 
-Or if your brave you can whip out your feric cholride and gas mask and do it yourself.
-You will also need a metal project box, this is critical as the circuit is incredibly sensitive to radio noise that will disturbe op-amps causing an unstead output signal from the YIG
+Or if your brave you can whip out your feric cholride and gas mask and do it yourself. (SVG files are provided along with the EASYEDA file within the boards folder)
+You will also need a metal project box, this is critical as the circuit is incredibly sensitive to radio noise that will disturb the op-amps causing an unsteady output signal from the YIG.
 
 
 
