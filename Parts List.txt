@@ -12,38 +12,39 @@ PARTS LISTS:
 1x Stellex 6755-726 or Endwave MY01210 (This can be found on ebay)
 
 -Resistors:
-3x 5k multiturn resistors
-1x 240 Ohm
-1x 2.7K
-1x 3.0K
-1x 10K
-2x 100 Ohm
-2x 10 Ohm 1W
-1x 15 Ohm 1W
-1x 680 Ohm
-1x 470 Ohm
-1x 2K
+3x 5k multiturn resistors  -> R1
+1x 240 Ohm      ->  R2
+1x 2.7K	    ->  R3
+1x 3.0K         ->  R4
+1x 10K          ->  R5
+2x 100 Ohm      ->  R6
+2x 10 Ohm 1W    ->  R7
+1x 15 Ohm 1W    ->  R8
+1x 680 Ohm      ->  R9
+1x 470 Ohm      ->  R10
+1x 2K           ->  R11
 
 -Caps:
-4x 100pF
-1x 100uF
-1x 470uF
-A bunch of 10 uF maybe 20(IDFN, im some how too lazy to count but not too lazy to write out this whole speal about how im too lazy)
+4x 100pF   -> C1
+1x 100uF   -> C2
+1x 470uF   -> C3
+A bunch of 10 uF maybe 20(IDFN, im some how too lazy to count but not too lazy to write out this whole speal about how im too lazy. anyways its pcb ID is)   -> C4
+
 
 -Diodes:
-1x 1N5401
-2x 1N4001
-4x 1N4148
+1x 1N5401    -> D1
+2x 1N4001    -> D2
+4x 1N4148    -> D3
 
 -MOSFETS:
-2x IRF510
+2x IRF510   -> M1
 
 -Other:
-1x LM317
-1x LTC1044 (or LMC7660)
-2x OP27G (replacing the older LM627)
+1x LM317     
+1x LTC1044 (or LMC7660) -> IC1
+2x OP27G (replacing the older LM627)    -> IC2
 4x 8 pin dip sockets (optional if you want to risk your ICs)
-1x right angle pcb to sma connector
+1x right angle pcb to sma connector   -> SMA
 1x SMA passthrough of your choosing depending on how you want to get the signal out of the box 
-1x 12v 2.5mm pcb connector
+1x 12v 2.5mm pcb connector -> 12V
 1x Decent 12v Power supply, get a good one, a noise 12v supply will effect the stability of the circuit. if you cant you can always run it off of a battery
