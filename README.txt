@@ -1,16 +1,21 @@
-Firstly many thanks to John Miles at http://www.ke5fx.com and the RSGB, without there opensource designs this project would not be possiblebecause I have no idea what im doing with electronics.
+Firstly many thanks to John Miles at http://www.ke5fx.com and the RSGB, without there opensource designs this project would not be possible because I have no idea what im doing with electronics.
 
 On a more serious note.
 
-Dont be an idiot. X-band transmittions are usually regulated so dont assume you can just do random shit with this.
+Dont be an idiot. 
+X-band transmittions are usually regulated so dont assume you can just do random shit with this.
 Check your local radio regulators be that OFCOM or the FCC or whoever regulates radio spectrum usage in your area to check this is legal and to aquire the neccesary licenses if it is not. 
 
-Messing around with radio tranmitters can genuinly interfere with lifesaving equipment(and more relevat to the x-band, military radar) and can land you in serious trouble.
+Messing around with radio tranmitters can genuinly interfere with lifesaving equipment(and more relevant to the x-band, military radar, weather radar, landing radar) and can land you in serious trouble.
 In the uk for example, illegaly transmitting in this band(or any non IMS band) can land your with an unlimited fine and or prison time up to 2 years.
+
 You have been warned. 
 
-It is popular online to convert these oscillator in to DIY synthetic aperturte radar while a genuinly fun project this. 
+
+It is popular online to convert these oscillator in to DIY synthetic Aperture radar while a genuinly fun project this. 
+
 Do not do this.
+
 Many technical hobbies have remained relativly unregulated because most users of the technology are responsible users and are considerate of the impact of 
 there hobbies on those around them around, I do not see a resonable and considerate use for a SAR in the hobby scene
 As access to these advanced technologies become more accessible to amarteur hobbyist we risk further regulation limiting what responsible users can do
