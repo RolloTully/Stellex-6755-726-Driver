@@ -28,7 +28,7 @@ PARTS LISTS:
 4x 100pF
 1x 100uF
 1x 470uF
-A bunch of 10 uF 
+A bunch of 10 uF maybe 20(IDFN, im some how too lazy to count but not too lazy to write out this whole speal about how im too lazy)
 
 -Diodes:
 1x 1N5401
@@ -43,4 +43,7 @@ A bunch of 10 uF
 1x LTC1044 (or LMC7660)
 2x OP27G (replacing the older LM627)
 4x 8 pin dip sockets (optional if you want to risk your ICs)
+1x right angle pcb to sma connector
+1x SMA passthrough of your choosing depending on how you want to get the signal out of the box 
+1x 12v 2.5mm pcb connector
 1x Decent 12v Power supply, get a good one, a noise 12v supply will effect the stability of the circuit. if you cant you can always run it off of a battery
